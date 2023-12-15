@@ -19,6 +19,7 @@ Projeto da disciplina Interface Humano Computador - Experiência do Usuário UI/
 - [Parte_2](imagens/P2)
    - [Brainstorming](imagens/P2/Brainstorming)
    - [Protótipo baixa fidelidade](imagens/P2/Low%20Fidelity%20Prototype)
+   - [Protótipo alta fidelidade](imagens/High%20Fidelity%20Prototype/High%20Fidelity%20Prototype)
 
 ## Descrição do projeto
 
